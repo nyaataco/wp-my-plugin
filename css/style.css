@@ -1,0 +1,10 @@
+#view_message {
+    margin:30px;
+    color: #02405dff;
+    opacity: 0;
+    transition: opacity 1.5s ease;
+}
+
+#view_message.fade-in {
+    opacity: 1;
+}

@@ -1,0 +1,25 @@
+h1 {
+    margin: 50px 20px;
+}
+
+.wrap {
+    margin: 50px 20px;
+}
+
+input[name="save_message"] {
+    background-color: #0073aa;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease;
+}
+
+input[name="save_message"]:hover {
+    background-color: #005a87;
+}
+
+
